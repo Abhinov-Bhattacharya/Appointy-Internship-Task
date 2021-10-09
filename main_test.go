@@ -24,6 +24,5 @@ package main
 		}
 		if resp == nil {
 			t.Error("NO response")
-
 		}
 	}
